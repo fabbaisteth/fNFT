@@ -1,0 +1,2 @@
+@openzeppelin/contracts=/home/fabbaist/eth/openzeppelin-contracts/contracts
+/home/fabbaist/eth/fNFT/contracts = @openzeppelin/contracts
